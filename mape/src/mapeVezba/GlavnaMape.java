@@ -4,7 +4,9 @@ public class GlavnaMape {
 
 	public static void main(String[] args) {
 	
-		// pozdrav za git!
+		// pozdrav za git opet!
+		
+	System.out.println("Heloooooooo");
 		
 		
 		
